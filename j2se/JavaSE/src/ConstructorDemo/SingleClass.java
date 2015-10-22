@@ -16,7 +16,8 @@ class test{
 		return t;
 	}
 	
-	public void print(){
+	public void print(){  
+		System.out.println("ÎÒ²ÙÄãÂè£¡");
 		
 		System.out.println("-----------");
 	}
